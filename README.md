@@ -13,7 +13,7 @@ To run project you can use maven command:
 ```
 mvn vertx:run
 ```
-or run directly from IDE by as Java Application
+or run directly from IDE as Java Application
 
 
 # How to use
