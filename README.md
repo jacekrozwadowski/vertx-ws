@@ -1,4 +1,4 @@
-# Vert.x web service with JDBC and SQL.
+# Vert.x microservice with JDBC and SQL.
 
 Project shows how to create Vert.x microservice with JDBC/SQL support.
 
